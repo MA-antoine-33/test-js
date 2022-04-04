@@ -21,5 +21,18 @@ for (i = 0; i < 3; i++) {
 }
 //C'est la fin du code en suivant
 console.log('au revoir !');
+console.log('Les nombres');
+console.log(25 + 2);
+console.log(10 / 2.5);
+console.log((-2 + 5) * 3 + (10 / 2));
+console.log(40 + "Chiffres")
+console.log(40 - "Nombres")
+//NaN not a number
+
+console.log(16 < 42)
+console.log(42 >= 42)
+console.log(42 !== 42)
+
+console.log(42 > 20 || 20 > 2)
 
 //Ctrl + f5 pour lancer le débogage
